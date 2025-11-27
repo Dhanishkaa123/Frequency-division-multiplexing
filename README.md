@@ -128,6 +128,11 @@ OUTPUT WAVEFORM
 Calculations:
 
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/574d2888-ac4a-47fd-8280-e61e228cccf9" />
+
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/78e003f6-4e71-4407-a16c-15471d49bc5e" />
+
 
 
 
